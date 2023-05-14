@@ -1,0 +1,16 @@
+## Author
+
+- **Name:** Justin Tang
+- **Email:** jjtang2@illinois.edu
+
+## Purpose
+
+The purpose of this application is to provide data on the refereeing decisions made in matches. This application analyzes the decisions made by the referees, then categorizes them based on the home and away team. By tracking the calls made by referees for the home team and away team separately, the app allows for the identification of potential biases or discrepancies in the decisions made. However, referee calls can be subjective and the app doesn't factor in any context behind each call. For example, if a team gets called for a yellow card, we don't know if the team actually "deserved" a yellow card because we would need more information about the play and what was happening on the pitch specifically at that time. All we know is that a yellow card was given. In the end, I believe there is still some usefulness to this app as it can still provide a basic level of insight into the fairness and impartiality of the refereeing decisions, which can be used by governing bodies, teams, and fans to improve the quality of officiating and promote transparency in sports.
+
+## Data
+
+The dataset I chose contained information about football matches played in the English Premier League during the 2021-2022 season. The dataset includes data on 380 matches played between the 20 teams in the league. Each row in the dataset represents a single match and includes information such as the home team and away team, the date and time of the match, the referee, and the number of cards (yellow and red) issued to each team. The dataset also includes information on the goals scored by each team and the final outcome of the match (win, loss, or draw). I used this data to track the refereeing decisions made in each match and to analyze any potential biases or discrepancies in those decisions based on the home team and away team.
+
+## References
+
+- [TidyTuesday 2023-04-04 Premier League Match Data](https://github.com/rfordatascience/tidytuesday/blob/master/data/2023/2023-04-04/readme.md)

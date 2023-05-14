@@ -1,0 +1,381 @@
+Referee,Date,HomeTeam,AwayTeam,HomeGoals,AwayGoals,Result,HomeFouls,HomeYellowCards,HomeRedCards,AwayFouls,AwayYellowCards,AwayRedCards
+M Oliver,13/08/2021,Brentford,Arsenal,2,0,H,12,0,0,8,0,0
+P Tierney,14/08/2021,Man United,Leeds,5,1,H,11,1,0,9,2,0
+D Coote,14/08/2021,Burnley,Brighton,1,2,A,10,2,0,7,1,0
+J Moss,14/08/2021,Chelsea,Crystal Palace,3,0,H,15,0,0,11,0,0
+A Madley,14/08/2021,Everton,Southampton,3,1,H,13,2,0,15,0,0
+C Pawson,14/08/2021,Leicester,Wolves,1,0,H,6,1,0,10,2,0
+M Dean,14/08/2021,Watford,Aston Villa,3,2,H,18,3,0,13,1,0
+A Marriner,14/08/2021,Norwich,Liverpool,0,3,A,4,1,0,14,1,0
+M Atkinson,15/08/2021,Newcastle,West Ham,2,4,A,4,1,0,3,0,0
+A Taylor,15/08/2021,Tottenham,Man City,1,0,H,11,2,0,8,1,0
+M Dean,21/08/2021,Liverpool,Burnley,2,0,H,6,0,0,12,0,0
+D Coote,21/08/2021,Aston Villa,Newcastle,2,0,H,8,3,0,18,4,0
+M Atkinson,21/08/2021,Crystal Palace,Brentford,0,0,D,12,3,0,9,1,0
+D England,21/08/2021,Leeds,Everton,2,2,D,6,2,0,13,4,0
+G Scott,21/08/2021,Man City,Norwich,5,0,H,13,1,0,7,0,0
+A Taylor,21/08/2021,Brighton,Watford,2,0,H,11,4,0,6,0,0
+C Pawson,22/08/2021,Southampton,Man United,1,1,D,12,2,0,10,3,0
+S Attwell,22/08/2021,Wolves,Tottenham,0,1,A,9,1,0,7,4,0
+P Tierney,22/08/2021,Arsenal,Chelsea,0,2,A,10,3,0,4,0,0
+M Oliver,23/08/2021,West Ham,Leicester,4,1,H,8,0,0,8,1,1
+M Atkinson,28/08/2021,Man City,Arsenal,5,0,H,5,1,0,7,2,1
+P Bankes,28/08/2021,Aston Villa,Brentford,1,1,D,15,3,0,14,3,0
+J Moss,28/08/2021,Brighton,Everton,0,2,A,7,1,0,9,2,0
+P Tierney,28/08/2021,Newcastle,Southampton,2,2,D,11,3,0,6,3,0
+R Jones,28/08/2021,Norwich,Leicester,1,2,A,8,2,0,9,1,0
+S Attwell,28/08/2021,West Ham,Crystal Palace,2,2,D,10,1,0,7,0,0
+A Taylor,28/08/2021,Liverpool,Chelsea,1,1,D,13,0,0,4,2,1
+M Oliver,29/08/2021,Burnley,Leeds,1,1,D,13,4,0,9,3,0
+A Marriner,29/08/2021,Tottenham,Watford,1,0,H,8,3,0,14,3,0
+M Dean,29/08/2021,Wolves,Man United,0,1,A,7,3,0,9,4,0
+J Moss,11/09/2021,Crystal Palace,Tottenham,3,0,H,13,2,0,15,1,1
+M Oliver,11/09/2021,Arsenal,Norwich,1,0,H,9,1,0,11,2,0
+G Scott,11/09/2021,Brentford,Brighton,0,1,A,9,3,0,12,2,0
+P Tierney,11/09/2021,Leicester,Man City,0,1,A,4,1,0,11,2,0
+A Taylor,11/09/2021,Man United,Newcastle,4,1,H,9,1,0,2,0,0
+D Coote,11/09/2021,Southampton,West Ham,0,0,D,10,3,0,12,1,1
+P Bankes,11/09/2021,Watford,Wolves,0,2,A,15,3,0,13,3,0
+S Attwell,11/09/2021,Chelsea,Aston Villa,3,0,H,11,1,0,11,4,0
+C Pawson,12/09/2021,Leeds,Liverpool,0,3,A,9,2,1,8,1,0
+M Atkinson,13/09/2021,Everton,Burnley,3,1,H,3,1,0,6,1,0
+M Dean,17/09/2021,Newcastle,Leeds,1,1,D,9,2,0,11,2,0
+D England,18/09/2021,Wolves,Brentford,0,2,A,10,4,0,7,2,1
+A Taylor,18/09/2021,Burnley,Arsenal,0,1,A,9,2,0,8,1,0
+A Madley,18/09/2021,Liverpool,Crystal Palace,3,0,H,17,3,0,11,1,0
+J Moss,18/09/2021,Man City,Southampton,0,0,D,5,0,0,12,2,0
+R Jones,18/09/2021,Norwich,Watford,1,3,A,10,1,0,14,1,0
+C Pawson,18/09/2021,Aston Villa,Everton,3,0,H,7,1,0,10,1,0
+S Attwell,19/09/2021,Brighton,Leicester,2,1,H,8,2,0,10,1,0
+M Atkinson,19/09/2021,West Ham,Man United,1,2,A,5,0,0,8,0,0
+P Tierney,19/09/2021,Tottenham,Chelsea,0,3,A,4,0,0,15,1,0
+M Oliver,25/09/2021,Chelsea,Man City,0,1,A,12,3,0,10,2,0
+M Dean,25/09/2021,Man United,Aston Villa,0,1,A,9,2,0,13,2,0
+D Coote,25/09/2021,Everton,Norwich,2,0,H,12,2,0,9,3,0
+K Friend,25/09/2021,Leeds,West Ham,1,2,A,10,3,0,6,2,0
+C Kavanagh,25/09/2021,Leicester,Burnley,2,2,D,10,2,0,8,4,0
+J Gillett,25/09/2021,Watford,Newcastle,1,1,D,19,4,0,12,3,0
+S Attwell,25/09/2021,Brentford,Liverpool,3,3,D,8,1,0,7,1,0
+A Madley,26/09/2021,Southampton,Wolves,0,1,A,12,0,0,8,0,0
+C Pawson,26/09/2021,Arsenal,Tottenham,3,1,H,12,2,0,13,1,0
+A Marriner,27/09/2021,Crystal Palace,Brighton,1,1,D,12,2,0,10,3,0
+M Oliver,02/10/2021,Man United,Everton,1,1,D,10,1,0,9,1,0
+K Friend,02/10/2021,Burnley,Norwich,0,0,D,13,5,0,3,2,0
+M Atkinson,02/10/2021,Chelsea,Southampton,3,1,H,11,1,0,13,3,1
+S Hooper,02/10/2021,Leeds,Watford,1,0,H,10,0,0,16,3,0
+G Scott,02/10/2021,Wolves,Newcastle,2,1,H,15,0,0,5,2,0
+J Moss,02/10/2021,Brighton,Arsenal,0,0,D,8,2,0,5,1,0
+A Taylor,03/10/2021,Crystal Palace,Leicester,2,2,D,15,2,0,11,3,0
+C Kavanagh,03/10/2021,Tottenham,Aston Villa,2,1,H,11,2,0,14,1,0
+P Bankes,03/10/2021,West Ham,Brentford,1,2,A,16,2,0,13,3,0
+P Tierney,03/10/2021,Liverpool,Man City,2,2,D,10,3,0,12,3,0
+J Moss,16/10/2021,Watford,Liverpool,0,5,A,4,0,0,10,0,0
+M Oliver,16/10/2021,Aston Villa,Wolves,2,3,A,8,2,0,17,3,0
+C Pawson,16/10/2021,Leicester,Man United,4,2,H,5,0,0,17,3,0
+M Atkinson,16/10/2021,Man City,Burnley,2,0,H,11,1,0,5,0,0
+P Bankes,16/10/2021,Norwich,Brighton,0,0,D,5,3,0,14,5,0
+D Coote,16/10/2021,Southampton,Leeds,1,0,H,16,2,0,14,3,0
+A Taylor,16/10/2021,Brentford,Chelsea,0,1,A,13,1,0,8,1,0
+S Attwell,17/10/2021,Everton,West Ham,0,1,A,3,0,0,3,2,0
+A Marriner,17/10/2021,Newcastle,Tottenham,2,3,A,13,4,1,4,1,0
+M Dean,18/10/2021,Arsenal,Crystal Palace,2,2,D,7,1,0,4,1,0
+C Pawson,22/10/2021,Arsenal,Aston Villa,3,1,H,17,2,0,10,5,0
+A Madley,23/10/2021,Chelsea,Norwich,7,0,H,14,0,0,16,2,1
+D England,23/10/2021,Crystal Palace,Newcastle,1,1,D,13,3,0,9,4,0
+G Scott,23/10/2021,Everton,Watford,2,5,A,9,4,0,13,3,0
+R Jones,23/10/2021,Leeds,Wolves,1,1,D,15,2,0,14,3,0
+C Kavanagh,23/10/2021,Southampton,Burnley,2,2,D,10,1,0,11,3,0
+K Friend,23/10/2021,Brighton,Man City,1,4,A,10,2,0,6,3,0
+S Hooper,24/10/2021,Brentford,Leicester,1,2,A,13,1,0,7,1,0
+P Tierney,24/10/2021,West Ham,Tottenham,1,0,H,11,2,0,4,1,0
+A Taylor,24/10/2021,Man United,Liverpool,0,5,A,10,6,1,8,0,0
+M Oliver,30/10/2021,Leicester,Arsenal,0,2,A,8,2,0,11,0,0
+J Moss,30/10/2021,Burnley,Brentford,3,1,H,7,1,0,10,1,0
+M Dean,30/10/2021,Liverpool,Brighton,2,2,D,8,2,0,5,2,0
+A Marriner,30/10/2021,Man City,Crystal Palace,0,2,A,11,2,1,11,3,0
+P Tierney,30/10/2021,Newcastle,Chelsea,0,3,A,14,3,0,12,2,0
+P Bankes,30/10/2021,Watford,Southampton,0,1,A,16,2,0,6,2,0
+S Attwell,30/10/2021,Tottenham,Man United,0,3,A,12,2,0,14,3,0
+A Taylor,31/10/2021,Norwich,Leeds,1,2,A,14,1,0,23,4,0
+C Kavanagh,31/10/2021,Aston Villa,West Ham,1,4,A,7,1,1,13,2,0
+M Atkinson,01/11/2021,Wolves,Everton,2,1,H,10,1,0,8,1,0
+A Madley,05/11/2021,Southampton,Aston Villa,1,0,H,12,2,0,12,2,0
+M Oliver,06/11/2021,Man United,Man City,0,2,A,9,1,0,12,2,0
+J Gillett,06/11/2021,Brentford,Norwich,1,2,A,12,2,0,13,3,0
+A Marriner,06/11/2021,Chelsea,Burnley,1,1,D,6,1,0,9,4,0
+G Scott,06/11/2021,Crystal Palace,Wolves,2,0,H,14,2,0,13,1,0
+D Coote,06/11/2021,Brighton,Newcastle,1,1,D,16,3,1,10,4,0
+K Friend,07/11/2021,Arsenal,Watford,1,0,H,6,4,0,19,2,1
+C Kavanagh,07/11/2021,Everton,Tottenham,0,0,D,13,2,1,17,4,0
+D England,07/11/2021,Leeds,Leicester,1,1,D,12,1,0,5,1,0
+C Pawson,07/11/2021,West Ham,Liverpool,3,2,H,11,1,0,6,1,0
+P Tierney,20/11/2021,Leicester,Chelsea,0,3,A,15,3,0,8,1,0
+A Taylor,20/11/2021,Aston Villa,Brighton,2,0,H,7,3,0,13,3,0
+S Hooper,20/11/2021,Burnley,Crystal Palace,3,3,D,14,2,0,15,3,0
+R Jones,20/11/2021,Newcastle,Brentford,3,3,D,13,2,0,11,2,0
+M Atkinson,20/11/2021,Norwich,Southampton,2,1,H,8,3,0,9,2,0
+J Moss,20/11/2021,Watford,Man United,4,1,H,7,2,0,5,1,1
+M Dean,20/11/2021,Wolves,West Ham,1,0,H,6,1,0,9,1,0
+M Oliver,20/11/2021,Liverpool,Arsenal,4,0,H,15,2,0,12,0,0
+S Attwell,21/11/2021,Man City,Everton,3,0,H,5,1,0,7,1,0
+A Marriner,21/11/2021,Tottenham,Leeds,2,1,H,11,1,0,12,4,0
+S Attwell,27/11/2021,Arsenal,Newcastle,2,0,H,6,1,0,12,3,0
+M Salisbury,27/11/2021,Crystal Palace,Aston Villa,1,2,A,12,3,0,10,3,0
+A Marriner,27/11/2021,Liverpool,Southampton,4,0,H,7,0,0,14,1,0
+S Hooper,27/11/2021,Norwich,Wolves,0,0,D,11,2,0,10,2,0
+C Pawson,27/11/2021,Brighton,Leeds,0,0,D,12,1,0,14,3,0
+D England,28/11/2021,Brentford,Everton,1,0,H,8,4,0,11,3,0
+A Madley,28/11/2021,Leicester,Watford,4,2,H,5,0,0,19,0,0
+M Oliver,28/11/2021,Man City,West Ham,2,1,H,7,2,0,6,0,0
+A Taylor,28/11/2021,Chelsea,Man United,1,1,D,13,2,0,14,5,0
+A Madley,30/11/2021,Newcastle,Norwich,1,1,D,8,0,0,11,0,1
+K Friend,30/11/2021,Leeds,Crystal Palace,1,0,H,15,5,0,15,3,0
+R Jones,01/12/2021,Southampton,Leicester,2,2,D,14,1,0,11,3,0
+D Coote,01/12/2021,Watford,Chelsea,1,2,A,18,4,0,16,3,0
+C Kavanagh,01/12/2021,West Ham,Brighton,1,1,D,10,1,0,8,1,0
+J Brooks,01/12/2021,Wolves,Burnley,0,0,D,5,2,0,7,3,0
+M Dean,01/12/2021,Aston Villa,Man City,1,2,A,8,0,0,12,0,0
+P Tierney,01/12/2021,Everton,Liverpool,1,4,A,8,4,0,16,3,0
+J Moss,02/12/2021,Tottenham,Brentford,2,0,H,13,0,0,11,0,0
+M Atkinson,02/12/2021,Man United,Arsenal,3,2,H,9,1,0,10,0,0
+A Marriner,04/12/2021,West Ham,Chelsea,3,2,H,10,1,0,10,3,0
+P Tierney,04/12/2021,Newcastle,Burnley,1,0,H,11,1,0,9,1,0
+A Taylor,04/12/2021,Southampton,Brighton,1,1,D,15,4,0,12,2,0
+C Kavanagh,04/12/2021,Wolves,Liverpool,0,1,A,4,2,0,7,2,0
+S Hooper,04/12/2021,Watford,Man City,1,3,A,10,3,0,7,0,0
+D Coote,05/12/2021,Leeds,Brentford,2,2,D,11,5,0,9,3,0
+C Pawson,05/12/2021,Man United,Crystal Palace,1,0,H,16,2,0,9,2,0
+J Gillett,05/12/2021,Tottenham,Norwich,3,0,H,11,1,0,4,2,0
+M Oliver,05/12/2021,Aston Villa,Leicester,2,1,H,8,1,0,25,1,0
+M Dean,06/12/2021,Everton,Arsenal,2,1,H,8,2,0,12,2,0
+M Oliver,10/12/2021,Brentford,Watford,2,1,H,12,4,0,18,0,0
+J Moss,11/12/2021,Man City,Wolves,1,0,H,12,3,0,5,2,1
+J Gillett,11/12/2021,Arsenal,Southampton,3,0,H,5,2,0,9,0,0
+C Kavanagh,11/12/2021,Chelsea,Leeds,3,2,H,9,2,0,15,5,0
+S Attwell,11/12/2021,Liverpool,Aston Villa,1,0,H,13,1,0,6,2,0
+D England,11/12/2021,Norwich,Man United,0,1,A,6,1,0,17,1,0
+G Scott,12/12/2021,Burnley,West Ham,0,0,D,13,2,0,11,1,0
+P Bankes,12/12/2021,Leicester,Newcastle,4,0,H,9,2,0,16,3,0
+A Madley,12/12/2021,Crystal Palace,Everton,3,1,H,15,0,0,14,2,0
+D Coote,14/12/2021,Norwich,Aston Villa,0,2,A,12,3,0,9,1,0
+P Tierney,14/12/2021,Man City,Leeds,7,0,H,5,1,0,9,1,0
+T Harrington,15/12/2021,Brighton,Wolves,0,1,A,11,2,0,14,0,0
+S Hooper,15/12/2021,Crystal Palace,Southampton,2,2,D,16,2,0,20,4,0
+A Taylor,15/12/2021,Arsenal,West Ham,2,0,H,8,2,0,9,0,1
+M Oliver,16/12/2021,Chelsea,Everton,1,1,D,11,2,0,11,3,0
+M Dean,16/12/2021,Liverpool,Newcastle,3,1,H,9,1,0,4,3,0
+A Marriner,18/12/2021,Leeds,Arsenal,1,4,A,11,3,0,7,1,0
+M Atkinson,19/12/2021,Newcastle,Man City,0,4,A,9,1,0,6,2,0
+D Coote,19/12/2021,Wolves,Chelsea,0,0,D,9,0,0,7,2,0
+P Tierney,19/12/2021,Tottenham,Liverpool,2,2,D,12,4,0,11,4,1
+C Kavanagh,26/12/2021,Man City,Leicester,6,3,H,11,1,0,9,2,0
+G Scott,26/12/2021,Norwich,Arsenal,0,5,A,13,1,0,7,2,0
+J Moss,26/12/2021,Tottenham,Crystal Palace,3,0,H,16,1,0,10,1,1
+K Friend,26/12/2021,West Ham,Southampton,2,3,A,10,2,0,9,3,0
+M Atkinson,26/12/2021,Aston Villa,Chelsea,1,3,A,8,3,0,11,1,0
+D England,26/12/2021,Brighton,Brentford,2,0,H,8,1,0,10,3,0
+C Pawson,27/12/2021,Newcastle,Man United,1,1,D,11,3,0,8,3,0
+P Tierney,28/12/2021,Crystal Palace,Norwich,3,0,H,9,1,0,13,2,0
+A Taylor,28/12/2021,Southampton,Tottenham,1,1,D,15,2,1,5,2,0
+D England,28/12/2021,Watford,West Ham,1,4,A,12,0,0,12,1,0
+M Oliver,28/12/2021,Leicester,Liverpool,1,0,H,8,0,0,11,1,0
+M Dean,29/12/2021,Chelsea,Brighton,1,1,D,14,4,0,7,1,0
+D Coote,29/12/2021,Brentford,Man City,0,1,A,12,0,0,10,0,0
+J Moss,30/12/2021,Man United,Burnley,3,1,H,5,0,0,10,0,0
+S Attwell,01/01/2022,Arsenal,Man City,1,2,A,13,3,1,5,2,0
+R Jones,01/01/2022,Watford,Tottenham,0,1,A,6,0,0,9,1,0
+D England,01/01/2022,Crystal Palace,West Ham,2,3,A,6,0,0,16,2,0
+C Pawson,02/01/2022,Brentford,Aston Villa,2,1,H,17,2,0,11,2,0
+J Brooks,02/01/2022,Everton,Brighton,2,3,A,5,1,0,12,1,0
+P Tierney,02/01/2022,Leeds,Burnley,3,1,H,11,2,0,7,1,0
+A Taylor,02/01/2022,Chelsea,Liverpool,2,2,D,5,1,0,13,2,0
+M Dean,03/01/2022,Man United,Wolves,0,1,A,9,3,0,8,1,0
+S Attwell,11/01/2022,Southampton,Brentford,4,1,H,9,0,0,8,1,0
+S Hooper,12/01/2022,West Ham,Norwich,2,0,H,9,0,0,8,0,0
+R Jones,14/01/2022,Brighton,Crystal Palace,1,1,D,11,0,0,7,2,0
+C Pawson,15/01/2022,Man City,Chelsea,1,0,H,11,0,0,6,2,0
+P Tierney,15/01/2022,Newcastle,Watford,1,1,D,13,3,0,13,2,0
+A Madley,15/01/2022,Norwich,Everton,2,1,H,12,3,0,14,1,0
+M Salisbury,15/01/2022,Wolves,Southampton,3,1,H,13,2,0,14,3,0
+D Coote,15/01/2022,Aston Villa,Man United,2,2,D,8,1,0,13,2,0
+J Moss,16/01/2022,Liverpool,Brentford,3,0,H,6,0,0,6,1,0
+M Dean,16/01/2022,West Ham,Leeds,2,3,A,6,3,0,9,2,0
+K Friend,18/01/2022,Brighton,Chelsea,1,1,D,8,1,0,5,2,0
+J Moss,19/01/2022,Leicester,Tottenham,2,3,A,6,1,0,12,2,0
+A Marriner,19/01/2022,Brentford,Man United,1,3,A,7,0,0,9,0,0
+M Dean,21/01/2022,Watford,Norwich,0,3,A,16,0,1,11,1,0
+C Pawson,22/01/2022,Everton,Aston Villa,0,1,A,14,5,0,16,3,0
+P Bankes,22/01/2022,Brentford,Wolves,1,2,A,6,2,0,7,3,0
+C Kavanagh,22/01/2022,Leeds,Newcastle,0,1,A,9,4,0,9,2,0
+J Moss,22/01/2022,Man United,West Ham,1,0,H,9,1,0,8,1,0
+S Hooper,22/01/2022,Southampton,Man City,1,1,D,13,3,0,5,0,0
+D Coote,23/01/2022,Arsenal,Burnley,0,0,D,9,0,0,13,2,0
+K Friend,23/01/2022,Crystal Palace,Liverpool,1,3,A,12,4,0,10,1,0
+M Atkinson,23/01/2022,Leicester,Brighton,1,1,D,6,0,0,8,1,0
+P Tierney,23/01/2022,Chelsea,Tottenham,2,0,H,17,2,0,14,1,0
+C Pawson,05/02/2022,Burnley,Watford,0,0,D,16,1,0,9,2,0
+A Taylor,08/02/2022,Newcastle,Everton,3,1,H,13,2,0,13,3,0
+M Atkinson,08/02/2022,West Ham,Watford,1,0,H,1,1,0,6,0,0
+M Dean,08/02/2022,Burnley,Man United,1,1,D,11,2,0,10,1,0
+D England,09/02/2022,Man City,Brentford,2,0,H,7,0,0,13,0,0
+P Tierney,09/02/2022,Norwich,Crystal Palace,1,1,D,11,1,0,15,2,0
+D Coote,09/02/2022,Tottenham,Southampton,2,3,A,7,2,0,13,3,0
+J Gillett,09/02/2022,Aston Villa,Leeds,3,3,D,11,1,1,9,3,0
+C Kavanagh,10/02/2022,Liverpool,Leicester,2,0,H,11,1,0,7,0,0
+M Oliver,10/02/2022,Wolves,Arsenal,0,1,A,12,2,0,13,3,1
+S Attwell,12/02/2022,Man United,Southampton,1,1,D,12,4,0,13,0,0
+S Hooper,12/02/2022,Brentford,Crystal Palace,0,0,D,10,1,0,10,0,0
+G Scott,12/02/2022,Everton,Leeds,3,0,H,8,1,0,9,1,0
+J Moss,12/02/2022,Watford,Brighton,0,2,A,16,3,0,9,2,0
+A Marriner,12/02/2022,Norwich,Man City,0,4,A,7,0,0,8,2,0
+M Atkinson,13/02/2022,Burnley,Liverpool,0,1,A,7,0,0,6,1,0
+C Pawson,13/02/2022,Newcastle,Aston Villa,1,0,H,22,3,0,15,4,0
+K Friend,13/02/2022,Tottenham,Wolves,0,2,A,13,3,0,13,1,0
+M Oliver,13/02/2022,Leicester,West Ham,2,2,D,10,1,0,9,2,0
+P Bankes,15/02/2022,Man United,Brighton,2,0,H,8,3,0,10,1,1
+C Kavanagh,19/02/2022,West Ham,Newcastle,1,1,D,3,3,0,7,3,0
+J Moss,19/02/2022,Arsenal,Brentford,2,1,H,10,1,0,5,1,0
+R Jones,19/02/2022,Aston Villa,Watford,0,1,A,12,1,0,7,2,0
+K Friend,19/02/2022,Brighton,Burnley,0,3,A,12,1,0,12,4,0
+D Coote,19/02/2022,Crystal Palace,Chelsea,0,1,A,4,1,0,20,3,0
+M Dean,19/02/2022,Liverpool,Norwich,3,1,H,7,0,0,8,1,0
+A Madley,19/02/2022,Southampton,Everton,2,0,H,6,0,0,9,2,0
+A Taylor,19/02/2022,Man City,Tottenham,2,3,A,5,0,0,7,3,0
+P Tierney,20/02/2022,Leeds,Man United,2,4,A,13,6,0,19,3,0
+C Pawson,20/02/2022,Wolves,Leicester,2,1,H,12,4,0,9,4,0
+G Scott,23/02/2022,Burnley,Tottenham,1,0,H,8,0,0,8,0,0
+A Marriner,23/02/2022,Watford,Crystal Palace,1,4,A,12,2,0,9,1,0
+M Oliver,23/02/2022,Liverpool,Leeds,6,0,H,5,0,0,11,3,0
+M Atkinson,24/02/2022,Arsenal,Wolves,2,1,H,8,1,0,9,1,0
+S Hooper,25/02/2022,Southampton,Norwich,2,0,H,12,1,0,9,2,0
+C Pawson,26/02/2022,Leeds,Tottenham,0,4,A,16,4,0,11,2,0
+M Dean,26/02/2022,Brentford,Newcastle,0,2,A,9,3,1,7,1,0
+J Moss,26/02/2022,Crystal Palace,Burnley,1,1,D,5,0,0,17,2,0
+K Friend,26/02/2022,Man United,Watford,0,0,D,2,0,0,7,0,0
+J Brooks,26/02/2022,Brighton,Aston Villa,0,2,A,17,4,0,11,5,0
+P Tierney,26/02/2022,Everton,Man City,0,1,A,7,3,0,14,2,0
+A Taylor,27/02/2022,West Ham,Wolves,1,0,H,8,1,0,2,0,0
+C Kavanagh,01/03/2022,Burnley,Leicester,0,2,A,10,1,0,13,1,0
+D Coote,05/03/2022,Leicester,Leeds,1,0,H,9,1,0,12,2,0
+P Bankes,05/03/2022,Aston Villa,Southampton,4,0,H,10,1,0,8,1,0
+A Marriner,05/03/2022,Burnley,Chelsea,0,4,A,12,2,0,7,0,0
+M Atkinson,05/03/2022,Newcastle,Brighton,2,1,H,8,1,0,10,1,0
+A Taylor,05/03/2022,Norwich,Brentford,1,3,A,13,2,0,18,5,0
+A Madley,05/03/2022,Wolves,Crystal Palace,0,2,A,13,0,0,8,3,0
+J Moss,05/03/2022,Liverpool,West Ham,1,0,H,7,2,0,7,1,0
+C Pawson,06/03/2022,Watford,Arsenal,2,3,A,5,1,0,11,2,0
+M Oliver,06/03/2022,Man City,Man United,4,1,H,10,0,0,14,1,0
+S Attwell,07/03/2022,Tottenham,Everton,5,0,H,15,2,0,10,0,0
+M Atkinson,10/03/2022,Norwich,Chelsea,1,3,A,8,0,0,15,2,0
+K Friend,10/03/2022,Southampton,Newcastle,1,2,A,6,1,0,7,1,0
+D England,10/03/2022,Wolves,Watford,4,0,H,11,2,0,10,2,0
+S Hooper,10/03/2022,Leeds,Aston Villa,0,3,A,17,5,0,11,3,0
+M Dean,12/03/2022,Brighton,Liverpool,0,2,A,12,3,0,15,1,0
+P Tierney,12/03/2022,Brentford,Burnley,2,0,H,6,1,0,10,1,1
+J Moss,12/03/2022,Man United,Tottenham,3,2,H,8,2,0,7,1,0
+D Coote,13/03/2022,Chelsea,Newcastle,1,0,H,17,4,0,16,3,0
+M Oliver,13/03/2022,Everton,Wolves,0,1,A,13,2,1,11,1,0
+S Attwell,13/03/2022,Leeds,Norwich,2,1,H,18,3,0,8,1,0
+G Scott,13/03/2022,Southampton,Watford,1,2,A,8,3,0,12,2,0
+J Gillett,13/03/2022,West Ham,Aston Villa,2,1,H,9,1,0,3,0,0
+A Taylor,13/03/2022,Arsenal,Leicester,2,0,H,8,0,0,10,3,0
+M Atkinson,14/03/2022,Crystal Palace,Man City,0,0,D,6,3,0,11,1,0
+R Jones,16/03/2022,Brighton,Tottenham,0,2,A,11,2,0,9,2,0
+A Marriner,16/03/2022,Arsenal,Liverpool,0,2,A,9,0,0,9,1,0
+C Pawson,17/03/2022,Everton,Newcastle,1,0,H,13,2,1,11,1,0
+K Friend,18/03/2022,Wolves,Leeds,2,3,A,13,1,1,14,4,0
+A Madley,19/03/2022,Aston Villa,Arsenal,0,1,A,13,3,0,14,3,0
+D England,20/03/2022,Leicester,Brentford,2,1,H,10,1,0,10,2,0
+A Taylor,20/03/2022,Tottenham,West Ham,3,1,H,7,0,0,7,1,0
+S Attwell,02/04/2022,Liverpool,Watford,2,0,H,9,1,0,8,1,0
+S Hooper,02/04/2022,Brighton,Norwich,0,0,D,12,1,0,11,1,0
+C Pawson,02/04/2022,Burnley,Man City,0,2,A,11,1,0,6,0,0
+A Madley,02/04/2022,Chelsea,Brentford,1,4,A,11,0,0,7,0,0
+A Taylor,02/04/2022,Leeds,Southampton,1,1,D,14,1,0,7,1,0
+D England,02/04/2022,Wolves,Aston Villa,2,1,H,15,4,0,8,3,0
+A Marriner,02/04/2022,Man United,Leicester,1,1,D,13,2,0,6,2,0
+M Oliver,03/04/2022,West Ham,Everton,2,1,H,9,1,0,12,1,1
+M Atkinson,03/04/2022,Tottenham,Newcastle,5,1,H,10,2,0,7,3,0
+P Tierney,04/04/2022,Crystal Palace,Arsenal,3,0,H,11,0,0,15,2,0
+M Dean,06/04/2022,Burnley,Everton,3,2,H,11,2,0,16,2,0
+P Bankes,08/04/2022,Newcastle,Wolves,1,0,H,6,1,0,13,1,0
+J Moss,09/04/2022,Everton,Man United,1,0,H,4,2,0,10,2,0
+D Coote,09/04/2022,Arsenal,Brighton,1,2,A,12,3,0,19,4,0
+K Friend,09/04/2022,Southampton,Chelsea,0,6,A,11,1,0,10,0,0
+A Marriner,09/04/2022,Watford,Leeds,0,3,A,8,2,0,12,0,0
+G Scott,09/04/2022,Aston Villa,Tottenham,0,4,A,12,2,0,14,3,0
+M Atkinson,10/04/2022,Brentford,West Ham,2,0,H,2,0,0,6,1,0
+R Jones,10/04/2022,Leicester,Crystal Palace,2,1,H,11,1,0,12,1,0
+M Oliver,10/04/2022,Norwich,Burnley,2,0,H,12,1,0,10,1,0
+A Taylor,10/04/2022,Man City,Liverpool,2,2,D,9,1,0,11,4,0
+C Pawson,16/04/2022,Tottenham,Brighton,0,1,A,14,3,0,10,3,0
+A Madley,16/04/2022,Man United,Norwich,3,2,H,7,0,0,6,0,0
+P Bankes,16/04/2022,Southampton,Arsenal,1,0,H,6,2,0,6,1,0
+S Hooper,16/04/2022,Watford,Brentford,1,2,A,11,2,0,9,1,0
+J Gillett,17/04/2022,Newcastle,Leicester,2,1,H,10,2,0,10,2,0
+P Tierney,17/04/2022,West Ham,Burnley,1,1,D,9,2,0,10,2,0
+M Atkinson,19/04/2022,Liverpool,Man United,4,0,H,3,1,0,6,2,0
+J Moss,20/04/2022,Chelsea,Arsenal,2,4,A,7,3,0,6,1,0
+D Coote,20/04/2022,Everton,Leicester,1,1,D,8,3,0,17,1,0
+T Harrington,20/04/2022,Newcastle,Crystal Palace,1,0,H,12,1,0,12,1,0
+M Dean,20/04/2022,Man City,Brighton,3,0,H,12,0,0,7,3,0
+S Attwell,21/04/2022,Burnley,Southampton,2,0,H,7,2,0,7,2,0
+C Pawson,23/04/2022,Arsenal,Man United,3,1,H,9,3,0,12,4,0
+A Madley,23/04/2022,Leicester,Aston Villa,0,0,D,15,3,0,16,2,0
+K Friend,23/04/2022,Man City,Watford,5,1,H,9,1,0,7,0,0
+C Kavanagh,23/04/2022,Norwich,Newcastle,0,3,A,11,0,0,10,2,0
+M Atkinson,23/04/2022,Brentford,Tottenham,0,0,D,8,2,0,7,1,0
+R Jones,24/04/2022,Brighton,Southampton,2,2,D,12,1,0,7,0,0
+A Taylor,24/04/2022,Burnley,Wolves,1,0,H,8,3,0,7,1,0
+M Oliver,24/04/2022,Chelsea,West Ham,1,0,H,11,1,0,9,0,1
+S Attwell,24/04/2022,Liverpool,Everton,2,0,H,8,2,0,8,5,0
+D England,25/04/2022,Crystal Palace,Leeds,0,0,D,12,2,0,13,2,0
+M Dean,28/04/2022,Man United,Chelsea,1,1,D,9,0,0,12,1,0
+A Marriner,30/04/2022,Newcastle,Liverpool,0,1,A,11,1,0,11,3,0
+J Brooks,30/04/2022,Aston Villa,Norwich,2,0,H,16,4,0,8,1,0
+J Gillett,30/04/2022,Southampton,Crystal Palace,1,2,A,13,1,0,11,3,0
+C Pawson,30/04/2022,Watford,Burnley,1,2,A,13,1,0,9,2,0
+S Hooper,30/04/2022,Wolves,Brighton,0,3,A,6,2,0,4,1,0
+P Tierney,30/04/2022,Leeds,Man City,0,4,A,13,1,0,3,2,0
+K Friend,01/05/2022,Everton,Chelsea,1,0,H,9,3,0,12,5,0
+J Moss,01/05/2022,Tottenham,Leicester,3,1,H,13,2,0,8,3,0
+M Dean,01/05/2022,West Ham,Arsenal,1,2,A,8,2,0,9,2,0
+C Kavanagh,02/05/2022,Man United,Brentford,3,0,H,4,1,0,6,0,0
+M Salisbury,07/05/2022,Brentford,Southampton,3,0,H,12,0,0,9,1,0
+D Coote,07/05/2022,Burnley,Aston Villa,1,3,A,13,1,0,11,2,0
+P Bankes,07/05/2022,Chelsea,Wolves,2,2,D,7,1,0,11,3,0
+G Scott,07/05/2022,Crystal Palace,Watford,1,0,H,11,2,0,18,1,1
+A Madley,07/05/2022,Brighton,Man United,4,0,H,13,0,0,9,2,0
+M Oliver,07/05/2022,Liverpool,Tottenham,1,1,D,12,3,0,8,2,0
+C Kavanagh,08/05/2022,Arsenal,Leeds,2,1,H,13,2,0,15,2,1
+C Pawson,08/05/2022,Leicester,Everton,1,2,A,11,3,0,6,0,0
+R Jones,08/05/2022,Norwich,West Ham,0,4,A,7,1,0,7,1,0
+S Attwell,08/05/2022,Man City,Newcastle,5,0,H,6,1,0,11,3,0
+J Moss,10/05/2022,Aston Villa,Liverpool,1,2,A,10,0,0,12,0,0
+A Taylor,11/05/2022,Leeds,Chelsea,0,3,A,10,1,1,14,0,0
+S Hooper,11/05/2022,Leicester,Norwich,3,0,H,10,0,0,5,0,0
+M Dean,11/05/2022,Watford,Everton,0,0,D,5,1,0,12,2,0
+M Atkinson,11/05/2022,Wolves,Man City,1,5,A,2,0,0,10,1,0
+P Tierney,12/05/2022,Tottenham,Arsenal,3,0,H,8,1,0,15,3,1
+K Friend,15/05/2022,Tottenham,Burnley,1,0,H,12,3,0,8,2,0
+C Kavanagh,15/05/2022,Aston Villa,Crystal Palace,1,1,D,11,1,0,15,3,0
+M Dean,15/05/2022,Leeds,Brighton,1,1,D,16,3,0,8,2,0
+J Gillett,15/05/2022,Watford,Leicester,1,5,A,4,0,0,6,1,0
+A Taylor,15/05/2022,West Ham,Man City,2,2,D,9,3,0,5,1,0
+T Harrington,15/05/2022,Wolves,Norwich,1,1,D,5,0,0,10,3,0
+M Oliver,15/05/2022,Everton,Brentford,2,3,A,8,0,2,8,3,0
+D England,16/05/2022,Newcastle,Arsenal,2,0,H,11,0,0,8,3,0
+M Atkinson,17/05/2022,Southampton,Liverpool,1,2,A,6,2,0,6,0,0
+A Taylor,19/05/2022,Everton,Crystal Palace,3,2,H,9,2,0,13,3,0
+P Tierney,19/05/2022,Aston Villa,Burnley,1,1,D,11,0,0,20,1,1
+S Attwell,19/05/2022,Chelsea,Leicester,1,1,D,13,4,0,7,1,0
+A Marriner,22/05/2022,Arsenal,Everton,5,1,H,8,0,0,9,1,0
+P Tierney,22/05/2022,Brentford,Leeds,1,2,A,11,2,1,13,1,0
+K Friend,22/05/2022,Brighton,West Ham,3,1,H,9,1,0,9,1,0
+C Pawson,22/05/2022,Burnley,Newcastle,1,2,A,8,1,0,9,0,0
+M Dean,22/05/2022,Chelsea,Watford,2,1,H,9,0,0,9,0,0
+M Atkinson,22/05/2022,Crystal Palace,Man United,1,0,H,12,2,0,22,4,0
+J Moss,22/05/2022,Leicester,Southampton,4,1,H,10,0,0,5,1,0
+A Taylor,22/05/2022,Liverpool,Wolves,3,1,H,6,1,0,3,0,0
+M Oliver,22/05/2022,Man City,Aston Villa,3,2,H,5,0,0,11,1,0
+C Kavanagh,22/05/2022,Norwich,Tottenham,0,5,A,13,3,0,7,1,0
